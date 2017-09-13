@@ -1,0 +1,13 @@
+<application>
+  <component name="LineMarkerSettings">
+    <option name="providers">
+      <map>
+        <entry key="com.intellij.codeInsight.ExternalAnnotationsLineMarkerProvider" value="false" />
+        <entry key="com.intellij.codeInsight.daemon.impl.IconLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
+        <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
+        <entry key="java.lambda" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

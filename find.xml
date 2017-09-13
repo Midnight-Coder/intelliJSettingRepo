@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../src/main/java/com/krux/opendata/db/DataProviderSegmentManager.java - [krux-opendata]'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/com/krux/opendata/db/DataProviderSegmentManager.java - [krux-opendata]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/krux/opendata/db/DataProviderSegmentManager.java - [krux-opendata]'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.json</mask>
+    </recentFileMasks>
+  </component>
+</application>

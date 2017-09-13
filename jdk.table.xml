@@ -1,0 +1,127 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Java 1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_121&quot;" />
+      <homePath value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/ant-javafx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/dt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/javafx-mx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/jconsole.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/packager.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib/tools.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="rb-dc" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///Users/sjhobalia/vagrant/trusty_new/home/sjhobalia/.virtualenvs/rb_dc/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/1341971345" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/-1450937071" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/152930364" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/436012725" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/599698456" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/1449588755" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/vagrant/trusty_new" INTERPRETER_PATH="/home/sjhobalia/.virtualenvs/rb_dc/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/1341971345" remote-root="/home/sjhobalia/.virtualenvs/rb_dc/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/-1450937071" remote-root="/home/sjhobalia/.virtualenvs/rb_dc/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/152930364" remote-root="/home/sjhobalia/.virtualenvs/rb_dc/local/lib/python2.7/site-packages/newrelic-2.60.0.46" />
+              <mapping local-root="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/436012725" remote-root="/home/sjhobalia/.virtualenvs/rb_dc/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/remote_sources/1449588755/599698456" remote-root="/home/sjhobalia/.virtualenvs/rb_dc/lib/python2.7/site-packages/newrelic-2.60.0.46" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="data-processing" />
+      <type value="Python SDK" />
+      <version value="undefined" />
+      <homePath value="vagrant:///Users/sjhobalia/vagrant/trusty_new/home/sjhobalia/.virtualenvs/dataprocessing/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/vagrant/trusty_new" INTERPRETER_PATH="/home/sjhobalia/.virtualenvs/dataprocessing/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="undefined" />
+    </jdk>
+  </component>
+</application>
