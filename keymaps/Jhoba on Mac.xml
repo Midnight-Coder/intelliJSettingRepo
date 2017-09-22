@@ -2,7 +2,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
   </action>
-  <action id="CloseActiveTab">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CollapseAllRegions">
