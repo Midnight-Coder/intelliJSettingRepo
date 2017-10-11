@@ -11,11 +11,11 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
   <action id="CollapseRegion" />
   <action id="CollapseRegionRecursively">
-    <keyboard-shortcut first-keystroke="meta alt subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.AddColumn">
