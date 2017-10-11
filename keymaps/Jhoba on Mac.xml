@@ -13,9 +13,7 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="meta subtract" />
-  </action>
+  <action id="CollapseRegion" />
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt subtract" />
   </action>
