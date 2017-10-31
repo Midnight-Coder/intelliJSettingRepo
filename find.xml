@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/main/java/com/krux/opendata/db/DataProviderSegmentManager.java - [krux-opendata]'" />
-    <option name="defaultScopeName" value="File '.../src/main/java/com/krux/opendata/db/DataProviderSegmentManager.java - [krux-opendata]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/krux/opendata/db/DataProviderSegmentManager.java - [krux-opendata]'" />
+    <option name="customScope" value="File '.../console/app/controller/salesforce_sso.py - [rb_dataconsole]'" />
+    <option name="defaultScopeName" value="File '.../console/app/controller/salesforce_sso.py - [rb_dataconsole]'" />
+    <option name="SEARCH_SCOPE" value="File '.../console/app/controller/salesforce_sso.py - [rb_dataconsole]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
