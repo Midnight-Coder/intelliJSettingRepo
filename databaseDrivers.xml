@@ -28,7 +28,7 @@
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="postgresql" name="Postgres" dialect="PostgreSQL">
+    <driver id="postgresql" name="Postgres - riseup" dialect="PostgreSQL">
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <library>
