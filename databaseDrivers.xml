@@ -28,14 +28,14 @@
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="postgresql" name="Redshift" dialect="PostgreSQL">
+    <driver id="postgresql" name="Postgres" dialect="PostgreSQL">
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
       </library>
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-42.1.1.jar</url>
       </library>
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
