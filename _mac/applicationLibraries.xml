@@ -10,6 +10,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Remote Python 2.7.6 Vagrant VM at ~/vagrant/trusty_new (/usr/bin/python) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.11.7" type="Scala">
       <properties>
         <compiler-classpath>
