@@ -5,12 +5,7 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="rb-dc interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="Remote Python 2.7.6 Vagrant VM at ~/vagrant/trusty_new (/usr/bin/python) interpreter library">
+    <library name="RB-dc2::Remote Python 2.7.6 Vagrant VM at ~/vagrant/trusty_new (/home/sjhobalia/.virtualenvs/rb_dc/bin/python2.7) interpreter library">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
@@ -27,6 +22,11 @@
       <JAVADOC>
         <root url="http://www.scala-lang.org/api/2.11.7/" />
       </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="vagrant:///Users/sjhobalia/vagrant/trusty_new/home/sjhobalia/.virtualenvs/rb_dc/bin/python interpreter library">
+      <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
   </component>
