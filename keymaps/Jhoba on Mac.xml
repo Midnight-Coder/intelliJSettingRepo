@@ -75,6 +75,8 @@
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
   <action id="Scala.RenameJavaToScala" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift meta g" />
@@ -100,6 +102,10 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="UsageView.Rerun" />
   <action id="XDebugger.CopyWatch" />
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
