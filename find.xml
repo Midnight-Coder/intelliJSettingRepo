@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File '.../console/einstein_segmentation/api/esp_resource.py - [rb_dataconsole]'" />
+    <option name="defaultScopeName" value="File '.../console/einstein_segmentation/api/esp_resource.py - [rb_dataconsole]'" />
+    <option name="SEARCH_SCOPE" value="File '.../console/einstein_segmentation/api/esp_resource.py - [rb_dataconsole]'" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
