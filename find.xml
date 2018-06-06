@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../console/app/controller/salesforce_sso.py - [rb_dataconsole]'" />
-    <option name="defaultScopeName" value="File '.../console/app/controller/salesforce_sso.py - [rb_dataconsole]'" />
-    <option name="SEARCH_SCOPE" value="File '.../console/app/controller/salesforce_sso.py - [rb_dataconsole]'" />
+    <option name="customScope" value="File '.../console/einstein_segmentation/api/esp_resource.py - [rb_dataconsole]'" />
+    <option name="defaultScopeName" value="File '.../console/einstein_segmentation/api/esp_resource.py - [rb_dataconsole]'" />
+    <option name="SEARCH_SCOPE" value="File '.../console/einstein_segmentation/api/esp_resource.py - [rb_dataconsole]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,6 +14,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.json</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
