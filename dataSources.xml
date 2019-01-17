@@ -115,5 +115,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="upraised: jobninzq" uuid="a313ba76-7a8d-471b-b69d-56c0e8d785af">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://engine.cgnep1obqiam.ap-southeast-1.rds.amazonaws.com:5432/engine</jdbc-url>
+    </data-source>
   </component>
 </application>
