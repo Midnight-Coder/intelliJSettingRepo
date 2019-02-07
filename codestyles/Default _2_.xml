@@ -1,7 +1,7 @@
 <code_scheme name="Default (2)" version="173">
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="30" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
