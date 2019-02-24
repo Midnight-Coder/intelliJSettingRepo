@@ -36,6 +36,8 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
@@ -94,9 +96,15 @@
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="Refresh" />
   <action id="Rerun" />
