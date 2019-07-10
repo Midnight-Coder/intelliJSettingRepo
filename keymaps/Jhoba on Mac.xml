@@ -1,6 +1,18 @@
 <keymap version="1" name="Jhoba on Mac" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Arrangement.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
@@ -26,11 +38,22 @@
     <keyboard-shortcut first-keystroke="shift meta 8" />
     <keyboard-shortcut first-keystroke="shift meta multiply" />
   </action>
+  <action id="Debugger.RemoveArrayFilter">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Debugger.RemoveCustomField">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="Diff.ShowDiff" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="meta y" />
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorIncreaseFontSize">
@@ -81,6 +104,10 @@
     <keyboard-shortcut first-keystroke="shift meta alt n" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Graph.Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -106,8 +133,20 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="PropertyInspectorActions.RemoveProperty">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="Refresh" />
   <action id="Rerun" />
+  <action id="RunDashboard.RemoveConfiguration">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="RunDashboard.UngroupConfigurations">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="Scala.RenameJavaToScala" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift meta g" />
@@ -135,6 +174,10 @@
   </action>
   <action id="UsageView.Rerun" />
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.RemoveWatch">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="linessorter.sort">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
